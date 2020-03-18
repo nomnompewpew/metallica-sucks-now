@@ -1,0 +1,1 @@
+This repo was created for coursework for The Odin Project. It's tiring using the same names everyone else does, so I made this project based on my opinion of Metallica. Granted, I've been listening to them since I was probably 8 so I'm not saying they're terrible, they just kinda suck now.
